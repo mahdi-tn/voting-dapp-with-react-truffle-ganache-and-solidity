@@ -25,6 +25,7 @@ up to date (mars 2024)
 - the .env was holding this line 'SKIP_PREFLIGHT_CHECK=true', not sure if its necessary...
 
 # commands used in this project:
+```
 npm i truffle -g
 cd .\client\
 npm i
@@ -33,6 +34,7 @@ truffle compile
 truffle migrate
 cd .\client\
 npm run start
+```
 
 # apps that needs installation:
 - ganache
