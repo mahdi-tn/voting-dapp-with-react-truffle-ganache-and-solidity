@@ -17,7 +17,7 @@ up to date (mars 2024)
 - most uses of "img" has been left empty (src="") because those needs a database to store and call the images from.
 - some files arn't being used (probably only "serviceWorker.js").
 - updated the package.json dependencies.
-- updated react components and removed all debricated code.
+- updated react components and removed all deprecated code.
 
 # my opinion:
 - the code work. youre welcome.
